@@ -1,0 +1,47 @@
+퍼블릭 도메인
+아토미
+HTML Editor
+html 사용 설명서(html specification)
+https://opentutorials.org 공부하는곳
+unsplash.com 이미지 받는곳(공짜)
+github.com 개발자들이 모이는곳
+
+컨트롤 o 파일 열기
+진하게 하기 <strong> </strong>
+밑줄 <u> 
+
+웹들어가서 페이지 소스(그 페이지의 소스가 나타남)
+<h1> 소 제목
+<div>
+<a>
+<script>
+<link>
+<img>사진을 넣는 방법 <img src="파일명.jpg" width(폭)="450")
+ attribute(속성)
+<span>
+<p> 단락을 나타내는 기능
+<br> 줄바꿈 엔터와 같은 기능
+여백을 나타내는 태그<Style="margin-top:40px">
+
+목차를 나타내는 태그 2대가 같이 다녀야함
+<li> 자식
+<ul>부모키 (unordered)
+<ol> 리스트를 수정해야 할 때 사용해야하는 키 (자동으로 넘버링하는 태그)
+(ordered)
+
+표 작성하는 방법<table>은 3대가 같이 다녀야함 
+<table>
+<tr>
+<td>
+
+<!doctype html> 관용적으로 사용
+<html>
+<head> 바디를 설명하는 태그는
+<title> 제목을 나타냄 책 표지와 같음
+<meta charset="utf-8">로 열으렴 이상한 글씨가 나왔을때
+<boby> 본문을 나타낼 때 태그로 묶기로 약속함.
+<a href="">링크를 걸 때 사용 (h 하이퍼링크 ref 참조)
+<target="_blank"
+<title="2022 best html editor"
+
+
